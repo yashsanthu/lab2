@@ -35,4 +35,4 @@ sales_prediction = model.predict(input_data)
 # Display prediction
 st.write(f"Predicted Sales: {sales_prediction[0]:.2f} thousand units")
 st.markdown(
-    '`Initial code was developed by` [yaswanth]')
+    '`Initial code was developed by` [yaswanth santhosh]')
